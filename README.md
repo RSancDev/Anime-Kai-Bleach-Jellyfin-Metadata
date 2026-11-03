@@ -42,6 +42,26 @@ All 37 NFO files passed XML checks, and the episode mappings match all 35 chapte
 
 An initial Jellyfin test picked up the first chapter’s title and summary, but it still appeared under **Season Unknown**. The full pack and season grouping have not been completely tested in Jellyfin.
 
+### Example folder layout
+
+Your Jellyfin media folder should look something like this:
+
+```text
+Bleach Kai/
+├── tvshow.nfo
+└── Season 01/
+    ├── season.nfo
+    ├── Bleach 01 Soul Reaper.mkv
+    ├── Bleach 01 Soul Reaper.nfo
+    ├── Bleach 02 Mod Soul.mkv
+    ├── Bleach 02 Mod Soul.nfo
+    └── ...remaining chapters
+```
+
+Each episode NFO goes beside its matching video and uses the exact same filename, apart from the extension. If your video filenames differ from these examples, rename the NFO files to match.
+
+The videos shown above are your own files and are not included in this download.
+
 ## A few things to know
 
 AI was involved in making this, so there may be mistakes. The summaries were written using the source episodes listed in the supplied guide. I haven’t checked every summary against the actual edited videos, so some details may describe scenes that were shortened or removed.
