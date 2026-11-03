@@ -4,6 +4,8 @@ I put this pack together to give **chjk122’s 35-part Bleach Kai edit** its own
 
 I’m not a coder. I’m just a dude who likes anime and wanted this to look right in my library. I had no idea how to make it, so I used AI to help create the metadata files, write the summaries, and organize everything. I figured I’d share it in case anyone else finds it useful.
 
+<img width="1909" height="1052" alt="image" src="https://github.com/user-attachments/assets/d3d50462-487d-4ccf-992a-be6691830a93" />
+
 ## What’s included
 
 - 35 episode NFO files with chapter titles, summaries, and numbering
