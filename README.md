@@ -14,6 +14,10 @@ I’m not a coder. I’m just a dude who likes anime and wanted this to look rig
 
 There are no videos, subtitles, or artwork in this repository.
 
+## Download
+
+[Download the metadata pack](https://github.com/RSancDev/Anime-Kai-Bleach-Jellyfin-Metadata/archive/refs/heads/main.zip)
+
 ## How to use it
 
 1. Click **Code → Download ZIP** and extract it.
