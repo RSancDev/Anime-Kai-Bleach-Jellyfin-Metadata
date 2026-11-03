@@ -1,0 +1,240 @@
+My Episode number 01
+    Episode 1 -- percent of episode used = 82.2%
+    Episode 2 -- percent of episode used = 78.75%
+    Episode 3 -- percent of episode used = 79.29%
+    Episode 4 -- percent of episode used = 74.85%
+    Episode 5 -- percent of episode used = 78.88%
+My Episode number 02
+    Episode 6 -- percent of episode used = 82.13%
+    Episode 7 -- percent of episode used = 79.09%
+    Episode 8 -- percent of episode used = 82.44%
+    Episode 9 -- percent of episode used = 83.36%
+    Episode 10 -- percent of episode used = 83.13%
+My Episode number 03
+    Episode 11 -- percent of episode used = 82.8%
+    Episode 12 -- percent of episode used = 76.72%
+    Episode 13 -- percent of episode used = 79.76%
+    Episode 14 -- percent of episode used = 81.04%
+    Episode 15 -- percent of episode used = 53.74%
+My Episode number 04
+    Episode 16 -- percent of episode used = 71.51%
+    Episode 17 -- percent of episode used = 79.62%
+    Episode 18 -- percent of episode used = 81.99%
+    Episode 19 -- percent of episode used = 75.04%
+    Episode 20 -- percent of episode used = 79.96%
+My Episode number 05
+    Episode 21 -- percent of episode used = 82.05%
+    Episode 22 -- percent of episode used = 79%
+    Episode 23 -- percent of episode used = 72.35%
+    Episode 24 -- percent of episode used = 78%
+    Episode 25 -- percent of episode used = 78.95%
+My Episode number 06
+    Episode 26 -- percent of episode used = 53.46%
+    Episode 27 -- percent of episode used = 66.76%
+    Episode 28 -- percent of episode used = 77.77%
+    Episode 29 -- percent of episode used = 66.81%
+    Episode 30 -- percent of episode used = 79.8%
+My Episode number 07
+    Episode 31 -- percent of episode used = 68.25%
+    Episode 32 -- percent of episode used = 72.63%
+    Episode 34 -- percent of episode used = 63.89%
+    Episode 35 -- percent of episode used = 78.14%
+    Episode 36 -- percent of episode used = 62.76%
+My Episode number 08
+    Episode 37 -- percent of episode used = 82.15%
+    Episode 38 -- percent of episode used = 68.14%
+    Episode 39 -- percent of episode used = 73.19%
+    Episode 40 -- percent of episode used = 80.15%
+    Episode 41 -- percent of episode used = 80.84%
+My Episode number 09
+    Episode 42 -- percent of episode used = 79.7%
+    Episode 43 -- percent of episode used = 80.24%
+    Episode 44 -- percent of episode used = 76.16%
+    Episode 45 -- percent of episode used = 65.69%
+    Episode 46 -- percent of episode used = 58.09%
+My Episode number 10
+    Episode 47 -- percent of episode used = 74.72%
+    Episode 48 -- percent of episode used = 72.99%
+    Episode 49 -- percent of episode used = 69.32%
+    Episode 51 -- percent of episode used = 65.07%
+    Episode 52 -- percent of episode used = 79.36%
+My Episode number 11
+    Episode 53 -- percent of episode used = 74.46%
+    Episode 54 -- percent of episode used = 68.51%
+    Episode 55 -- percent of episode used = 69.6%
+    Episode 56 -- percent of episode used = 72.34%
+    Episode 57 -- percent of episode used = 54.08%
+My Episode number 12
+    Episode 58 -- percent of episode used = 56.13%
+    Episode 59 -- percent of episode used = 61.56%
+    Episode 60 -- percent of episode used = 78.05%
+    Episode 61 -- percent of episode used = 76.94%
+    Episode 62 -- percent of episode used = 78.61%
+    Episode 63 -- percent of episode used = 74.68%
+My Episode number 13
+    Episode 110 -- percent of episode used = 73.09%
+    Episode 111 -- percent of episode used = 54.2%
+    Episode 112 -- percent of episode used = 71.6%
+    Episode 113 -- percent of episode used = 64.32%
+    Episode 114 -- percent of episode used = 68.51%
+My Episode number 14
+    Episode 115 -- percent of episode used = 66.76%
+    Episode 116 -- percent of episode used = 71.9%
+    Episode 117 -- percent of episode used = 62.51%
+    Episode 118 -- percent of episode used = 72.32%
+    Episode 119 -- percent of episode used = 79.67%
+My Episode number 15
+    Episode 120 -- percent of episode used = 53.48%
+    Episode 121 -- percent of episode used = 65.21%
+    Episode 122 -- percent of episode used = 76.99%
+    Episode 123 -- percent of episode used = 64.14%
+    Episode 124 -- percent of episode used = 42.28%
+    Episode 125 -- percent of episode used = 65.33%
+My Episode number 16
+    Episode 126 -- percent of episode used = 71.78%
+    Episode 127 -- percent of episode used = 65.07%
+    Episode 138 -- percent of episode used = 77.37%
+    Episode 139 -- percent of episode used = 59.61%
+    Episode 140 -- percent of episode used = 70.05%
+My Episode number 17
+    Episode 141 -- percent of episode used = 71.92%
+    Episode 142 -- percent of episode used = 74.95%
+    Episode 143 -- percent of episode used = 69.01%
+    Episode 144 -- percent of episode used = 67.88%
+    Episode 145 -- percent of episode used = 55.94%
+My Episode number 18
+    Episode 146 -- percent of episode used = 75.66%
+    Episode 150 -- percent of episode used = 67.94%
+    Episode 151 -- percent of episode used = 51.92%
+    Episode 152 -- percent of episode used = 48.29%
+    Episode 153 -- percent of episode used = 37.94%
+    Episode 154 -- percent of episode used = 61.48%
+My Episode number 19
+    Episode 155 -- percent of episode used = 56.8%
+    Episode 156 -- percent of episode used = 53.33%
+    Episode 157 -- percent of episode used = 68.09%
+    Episode 158 -- percent of episode used = 51.28%
+    Episode 159 -- percent of episode used = 58.81%
+    Episode 160 -- percent of episode used = 29.7%
+    Episode 161 -- percent of episode used = 50.5%
+My Episode number 20
+    Episode 162 -- percent of episode used = 69.24%
+    Episode 163 -- percent of episode used = 61.09%
+    Episode 164 -- percent of episode used = 53.63%
+    Episode 165 -- percent of episode used = 50.8%
+    Episode 166 -- percent of episode used = 55.48%
+    Episode 167 -- percent of episode used = 44.55%
+My Episode number 21
+    Episode 190 -- percent of episode used = 25.55%
+    Episode 191 -- percent of episode used = 35.46%
+    Episode 192 -- percent of episode used = 53.15%
+    Episode 193 -- percent of episode used = 54.11%
+    Episode 194 -- percent of episode used = 55.19%
+    Episode 195 -- percent of episode used = 58.41%
+    Episode 196 -- percent of episode used = 65.65%
+My Episode number 22
+    Episode 197 -- percent of episode used = 59.69%
+    Episode 198 -- percent of episode used = 59%
+    Episode 199 -- percent of episode used = 54.72%
+    Episode 200 -- percent of episode used = 50.11%
+    Episode 201 -- percent of episode used = 65.6%
+    Episode 202 -- percent of episode used = 37.52%
+    Episode 203 -- percent of episode used = 47.22%
+My Episode number 23
+    Episode 206 -- percent of episode used = 57.72%
+    Episode 207 -- percent of episode used = 58.38%
+    Episode 208 -- percent of episode used = 18.37%
+    Episode 209 -- percent of episode used = 29.75%
+    Episode 210 -- percent of episode used = 64.15%
+    Episode 211 -- percent of episode used = 52.46%
+    Episode 212 -- percent of episode used = 65.77%
+My Episode number 24
+    Episode 215 -- percent of episode used = 14.67%
+    Episode 216 -- percent of episode used = 33.19%
+    Episode 217 -- percent of episode used = 32.65%
+    Episode 218 -- percent of episode used = 53.48%
+    Episode 219 -- percent of episode used = 49.75%
+    Episode 220 -- percent of episode used = 60.88%
+    Episode 221 -- percent of episode used = 27.76%
+My Episode number 25
+    Episode 222 -- percent of episode used = 45.36%
+    Episode 223 -- percent of episode used = 62.33%
+    Episode 224 -- percent of episode used = 56.77%
+    Episode 225 -- percent of episode used = 41.65%
+    Episode 226 -- percent of episode used = 38.98%
+My Episode number 26
+    Episode 215 -- percent of episode used = 18.1%
+    Episode 216 -- percent of episode used = 5.87%
+    Episode 267 -- percent of episode used = 9.6%
+    Episode 268 -- percent of episode used = 75.58%
+    Episode 269 -- percent of episode used = 54.06%
+    Episode 270 -- percent of episode used = 68.07%
+    Episode 271 -- percent of episode used = 66.14%
+    Episode 272 -- percent of episode used = 45.61%
+My Episode number 27
+    Episode 273 -- percent of episode used = 13.19%
+    Episode 274 -- percent of episode used = 53.31%
+    Episode 275 -- percent of episode used = 68.16%
+    Episode 276 -- percent of episode used = 47.17%
+    Episode 277 -- percent of episode used = 53.97%
+    Episode 278 -- percent of episode used = 48.27%
+    Episode 279 -- percent of episode used = 51.28%
+    Episode 280 -- percent of episode used = 53.56%
+My Episode number 28
+    Episode 281 -- percent of episode used = 36.48%
+    Episode 282 -- percent of episode used = 59.26%
+    Episode 283 -- percent of episode used = 52.26%
+    Episode 284 -- percent of episode used = 7.05%
+    Episode 285 -- percent of episode used = 39.93%
+    Episode 272 -- percent of episode used = 16.64%
+    Episode 273 -- percent of episode used = 12.34%
+    Episode 286 -- percent of episode used = 66.03%
+    Episode 288 -- percent of episode used = 67.56%
+My Episode number 29
+    Episode 289 -- percent of episode used = 49.79%
+    Episode 290 -- percent of episode used = 65.16%
+    Episode 291 -- percent of episode used = 68.79%
+    Episode 292 -- percent of episode used = 43.7%
+    Episode 293 -- percent of episode used = 53.81%
+    Episode 294 -- percent of episode used = 62.37%
+My Episode number 30
+    Episode 295 -- percent of episode used = 14.36%
+    Episode 296 -- percent of episode used = 37.19%
+    Episode 297 -- percent of episode used = 60.42%
+    Episode 300 -- percent of episode used = 61.14%
+    Episode 301 -- percent of episode used = 67.42%
+    Episode 302 -- percent of episode used = 69.44%
+My Episode number 31
+    Episode 306 -- percent of episode used = 50.09%
+    Episode 307 -- percent of episode used = 55.72%
+    Episode 308 -- percent of episode used = 73.15%
+    Episode 309 -- percent of episode used = 73.35%
+    Episode 310 -- percent of episode used = 54.15%
+    Episode 342 -- percent of episode used = 11.87%
+My Episode number 32
+    Episode 343 -- percent of episode used = 47.15%
+    Episode 344 -- percent of episode used = 73.53%
+    Episode 345 -- percent of episode used = 56.17%
+    Episode 346 -- percent of episode used = 60.07%
+    Episode 347 -- percent of episode used = 49.46%
+    Episode 348 -- percent of episode used = 41.89%
+    Episode 349 -- percent of episode used = 54.68%
+My Episode number 33
+    Episode 351 -- percent of episode used = 24.66%
+    Episode 350 -- percent of episode used = 55.07%
+    Episode 352 -- percent of episode used = 65.7%
+    Episode 353 -- percent of episode used = 52.1%
+    Episode 354 -- percent of episode used = 68.62%
+My Episode number 34
+    Episode 356 -- percent of episode used = 73.45%
+    Episode 357 -- percent of episode used = 53.88%
+    Episode 358 -- percent of episode used = 71.29%
+    Episode 359 -- percent of episode used = 60.59%
+    Episode 360 -- percent of episode used = 50.36%
+My Episode number 35
+    Episode 361 -- percent of episode used = 62.39%
+    Episode 362 -- percent of episode used = 68.5%
+    Episode 363 -- percent of episode used = 65.91%
+    Episode 364 -- percent of episode used = 56.84%
+    Episode 365 -- percent of episode used = 53.79%
+    Episode 366 -- percent of episode used = 85.3%

@@ -1,0 +1,1511 @@
+[
+  {
+    "chapter": 1,
+    "season": 1,
+    "title": "Soul Reaper",
+    "existing_video_filename": "Bleach 01 Soul Reaper.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 1,
+        "percent_used": "82.2"
+      },
+      {
+        "episode": 2,
+        "percent_used": "78.75"
+      },
+      {
+        "episode": 3,
+        "percent_used": "79.29"
+      },
+      {
+        "episode": 4,
+        "percent_used": "74.85"
+      },
+      {
+        "episode": 5,
+        "percent_used": "78.88"
+      }
+    ],
+    "plot": "Ichigo receives Rukia's Soul Reaper powers while defending his family. His new duties bring him face to face with Orihime's Hollow-transformed brother and the murderous spirit pursuing a boy whose soul inhabits Chad's parakeet.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_1"
+    ],
+    "nfo_sha256": "159f9d7c7757bb4ef1c7b3205dcb59c79b6efbf4ae6fd1b6c9f54fe3750163c5",
+    "packaged_nfo": "metadata/Season 01/Bleach 01 Soul Reaper.nfo"
+  },
+  {
+    "chapter": 2,
+    "season": 1,
+    "title": "Mod Soul",
+    "existing_video_filename": "Bleach 02 Mod Soul.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 6,
+        "percent_used": "82.13"
+      },
+      {
+        "episode": 7,
+        "percent_used": "79.09"
+      },
+      {
+        "episode": 8,
+        "percent_used": "82.44"
+      },
+      {
+        "episode": 9,
+        "percent_used": "83.36"
+      },
+      {
+        "episode": 10,
+        "percent_used": "83.13"
+      }
+    ],
+    "plot": "An artificial soul takes over Ichigo's body and eventually finds a home as Kon. A visit to his mother's grave brings Ichigo into battle with Grand Fisher, while television medium Don Kanonji draws him into another supernatural disturbance.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_1"
+    ],
+    "nfo_sha256": "0fe2e803fab279f8edfa69e671c8b6268df3fed284779627dd8ed7865fdda719",
+    "packaged_nfo": "metadata/Season 01/Bleach 02 Mod Soul.nfo"
+  },
+  {
+    "chapter": 3,
+    "season": 1,
+    "title": "Quincy",
+    "existing_video_filename": "Bleach 03 Quincy.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 11,
+        "percent_used": "82.8"
+      },
+      {
+        "episode": 12,
+        "percent_used": "76.72"
+      },
+      {
+        "episode": 13,
+        "percent_used": "79.76"
+      },
+      {
+        "episode": 14,
+        "percent_used": "81.04"
+      },
+      {
+        "episode": 15,
+        "percent_used": "53.74"
+      }
+    ],
+    "plot": "Uryu Ishida challenges Ichigo to a Hollow-hunting contest that endangers Karakura Town. Chad and Orihime awaken protective powers, and the rivals join forces against a Menos Grande. Rukia's ties to the human world put her in danger.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_1"
+    ],
+    "nfo_sha256": "1e124e0684a19d7fc2ecf2bcc61d74005eb2b4ff92e1f445527fe7049c47621e",
+    "packaged_nfo": "metadata/Season 01/Bleach 03 Quincy.nfo"
+  },
+  {
+    "chapter": 4,
+    "season": 1,
+    "title": "The Encounter",
+    "existing_video_filename": "Bleach 04 The Encounter.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 16,
+        "percent_used": "71.51"
+      },
+      {
+        "episode": 17,
+        "percent_used": "79.62"
+      },
+      {
+        "episode": 18,
+        "percent_used": "81.99"
+      },
+      {
+        "episode": 19,
+        "percent_used": "75.04"
+      },
+      {
+        "episode": 20,
+        "percent_used": "79.96"
+      }
+    ],
+    "plot": "Renji and Byakuya come for Rukia, leaving Ichigo defeated and powerless. Determined to rescue her, he undertakes Urahara's dangerous training, confronts the threat of becoming a Hollow, and discovers Zangetsu before setting out with his friends.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_1"
+    ],
+    "nfo_sha256": "24b1c37ddb238511fab7a1d6669f00809548702172bcc2d4c541abc182722bbe",
+    "packaged_nfo": "metadata/Season 01/Bleach 04 The Encounter.nfo"
+  },
+  {
+    "chapter": 5,
+    "season": 1,
+    "title": "Soul Society",
+    "existing_video_filename": "Bleach 05 Soul Society.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 21,
+        "percent_used": "82.05"
+      },
+      {
+        "episode": 22,
+        "percent_used": "79"
+      },
+      {
+        "episode": 23,
+        "percent_used": "72.35"
+      },
+      {
+        "episode": 24,
+        "percent_used": "78"
+      },
+      {
+        "episode": 25,
+        "percent_used": "78.95"
+      }
+    ],
+    "plot": "Ichigo's group reaches Soul Society, but Gin blocks their entrance to Seireitei. Ganju and Kukaku Shiba provide another route. As Rukia awaits execution and the captains assemble, the rescuers launch through the barrier and become separated.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_2"
+    ],
+    "nfo_sha256": "608fe352a3a43aaec6f6f0ae3aae0a4d37ec3bcbba91a7a3cd7584da74fa4a7e",
+    "packaged_nfo": "metadata/Season 01/Bleach 05 Soul Society.nfo"
+  },
+  {
+    "chapter": 6,
+    "season": 1,
+    "title": "Ryoka",
+    "existing_video_filename": "Bleach 06 Ryoka.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 26,
+        "percent_used": "53.46"
+      },
+      {
+        "episode": 27,
+        "percent_used": "66.76"
+      },
+      {
+        "episode": 28,
+        "percent_used": "77.77"
+      },
+      {
+        "episode": 29,
+        "percent_used": "66.81"
+      },
+      {
+        "episode": 30,
+        "percent_used": "79.8"
+      }
+    ],
+    "plot": "Scattered inside Seireitei, the rescuers face its defenders. Ichigo battles Ikkaku, Ganju evades Yumichika, and Uryu protects Orihime. Hanataro helps Ichigo and Ganju approach Rukia's prison, where Renji stands in their way.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_2"
+    ],
+    "nfo_sha256": "fec12e215aef17717883af58881bf9e602fb382a96b3ec10dbc213e6c4f8d89c",
+    "packaged_nfo": "metadata/Season 01/Bleach 06 Ryoka.nfo"
+  },
+  {
+    "chapter": 7,
+    "season": 1,
+    "title": "Lieutenant",
+    "existing_video_filename": "Bleach 07 Lieutenant.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 31,
+        "percent_used": "68.25"
+      },
+      {
+        "episode": 32,
+        "percent_used": "72.63"
+      },
+      {
+        "episode": 34,
+        "percent_used": "63.89"
+      },
+      {
+        "episode": 35,
+        "percent_used": "78.14"
+      },
+      {
+        "episode": 36,
+        "percent_used": "62.76"
+      }
+    ],
+    "plot": "Ichigo defeats Renji, whose memories of growing up with Rukia lead him to entrust her rescue to his opponent. Aizen's apparent murder throws the Soul Reapers into turmoil, while Kenpachi closes in on Ichigo.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_2"
+    ],
+    "nfo_sha256": "c3f9530e26c014c3e552cd9e32542afe081c849fac987f898dcecb2f5cceee64",
+    "packaged_nfo": "metadata/Season 01/Bleach 07 Lieutenant.nfo"
+  },
+  {
+    "chapter": 8,
+    "season": 1,
+    "title": "Captain",
+    "existing_video_filename": "Bleach 08 Captain.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 37,
+        "percent_used": "82.15"
+      },
+      {
+        "episode": 38,
+        "percent_used": "68.14"
+      },
+      {
+        "episode": 39,
+        "percent_used": "73.19"
+      },
+      {
+        "episode": 40,
+        "percent_used": "80.15"
+      },
+      {
+        "episode": 41,
+        "percent_used": "80.84"
+      }
+    ],
+    "plot": "Chad encounters Captain Kyoraku, and Ichigo struggles against Kenpachi's overwhelming strength. Zangetsu helps Ichigo fight back. At Rukia's prison, Ganju confronts painful history and Byakuya intervenes, drawing Ichigo into another confrontation.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_2"
+    ],
+    "nfo_sha256": "ef62e00871deaf75e4fc5c718940e43d67641e635b06c7d59476471ff7cc3e61",
+    "packaged_nfo": "metadata/Season 01/Bleach 08 Captain.nfo"
+  },
+  {
+    "chapter": 9,
+    "season": 1,
+    "title": "Uryus Resolve",
+    "existing_video_filename": "Bleach 09 Uryu's Resolve.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 42,
+        "percent_used": "79.7"
+      },
+      {
+        "episode": 43,
+        "percent_used": "80.24"
+      },
+      {
+        "episode": 44,
+        "percent_used": "76.16"
+      },
+      {
+        "episode": 45,
+        "percent_used": "65.69"
+      },
+      {
+        "episode": 46,
+        "percent_used": "58.09"
+      }
+    ],
+    "plot": "Yoruichi begins preparing Ichigo to master Bankai. Uryu faces Mayuri and learns of the captain's experiments on his grandfather, pushing his Quincy abilities beyond their limits. Meanwhile, Hinamori's memories and loyalty to Aizen deepen the crisis within Seireitei.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_3"
+    ],
+    "nfo_sha256": "2cf7113ad5c6a0cc9932888ce8e1e3b9eed69aa03fb821155c98b5dae4389a7b",
+    "packaged_nfo": "metadata/Season 01/Bleach 09 Uryu's Resolve.nfo"
+  },
+  {
+    "chapter": 10,
+    "season": 1,
+    "title": "Execution Date",
+    "existing_video_filename": "Bleach 10 Execution Date.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 47,
+        "percent_used": "74.72"
+      },
+      {
+        "episode": 48,
+        "percent_used": "72.99"
+      },
+      {
+        "episode": 49,
+        "percent_used": "69.32"
+      },
+      {
+        "episode": 51,
+        "percent_used": "65.07"
+      },
+      {
+        "episode": 52,
+        "percent_used": "79.36"
+      }
+    ],
+    "plot": "Rukia's execution is moved forward as Hitsugaya confronts Gin and Rukia recalls Kaien's death. Ichigo races to finish his training, while Renji takes his new Bankai into a desperate confrontation with Byakuya to save her.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_3"
+    ],
+    "nfo_sha256": "00f20c687adca8e635934b5f0306e150a9d6b65d72c36484e8c4bdb06297d1ca",
+    "packaged_nfo": "metadata/Season 01/Bleach 10 Execution Date.nfo"
+  },
+  {
+    "chapter": 11,
+    "season": 1,
+    "title": "A Promise",
+    "existing_video_filename": "Bleach 11 A Promise.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 53,
+        "percent_used": "74.46"
+      },
+      {
+        "episode": 54,
+        "percent_used": "68.51"
+      },
+      {
+        "episode": 55,
+        "percent_used": "69.6"
+      },
+      {
+        "episode": 56,
+        "percent_used": "72.34"
+      },
+      {
+        "episode": 57,
+        "percent_used": "54.08"
+      }
+    ],
+    "plot": "Ichigo interrupts Rukia's execution and entrusts her escape to Renji. The rescue divides the captains: Kyoraku and Ukitake face Yamamoto, Yoruichi confronts Soi Fon, and Ichigo squares off against Byakuya.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_3"
+    ],
+    "nfo_sha256": "80311a9ad8789cca2bbc720f0b81071c057d1d5b1f13d4e75b1aec20e30ff462",
+    "packaged_nfo": "metadata/Season 01/Bleach 11 A Promise.nfo"
+  },
+  {
+    "chapter": 12,
+    "season": 1,
+    "title": "Bankai",
+    "existing_video_filename": "Bleach 12 Bankai.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 58,
+        "percent_used": "56.13"
+      },
+      {
+        "episode": 59,
+        "percent_used": "61.56"
+      },
+      {
+        "episode": 60,
+        "percent_used": "78.05"
+      },
+      {
+        "episode": 61,
+        "percent_used": "76.94"
+      },
+      {
+        "episode": 62,
+        "percent_used": "78.61"
+      },
+      {
+        "episode": 63,
+        "percent_used": "74.68"
+      }
+    ],
+    "plot": "Ichigo unveils his Bankai against Byakuya and struggles with the Hollow within him. Aizen's deception and the purpose behind Rukia's execution are exposed. After the traitors escape with the Hogyoku, Ichigo's friends prepare to return home.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_3"
+    ],
+    "nfo_sha256": "54c6bf3982d0d5fc7f4023a989a361d389574e9c5bd4943251dd192b93d280b7",
+    "packaged_nfo": "metadata/Season 01/Bleach 12 Bankai.nfo"
+  },
+  {
+    "chapter": 13,
+    "season": 1,
+    "title": "New Student",
+    "existing_video_filename": "Bleach 13 New Student.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 110,
+        "percent_used": "73.09"
+      },
+      {
+        "episode": 111,
+        "percent_used": "54.2"
+      },
+      {
+        "episode": 112,
+        "percent_used": "71.6"
+      },
+      {
+        "episode": 113,
+        "percent_used": "64.32"
+      },
+      {
+        "episode": 114,
+        "percent_used": "68.51"
+      }
+    ],
+    "plot": "Transfer student Shinji Hirako invites Ichigo into the Visored, while Isshin and Ryuken reveal hidden powers. Yammy and Ulquiorra attack Karakura Town, exposing Ichigo's difficulty controlling his inner Hollow. Rukia and a Soul Reaper advance team arrive to help.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_6"
+    ],
+    "nfo_sha256": "e8b6577fde9c2d289f612a913987914768975c59bec09c94ffa67db355230579",
+    "packaged_nfo": "metadata/Season 01/Bleach 13 New Student.nfo"
+  },
+  {
+    "chapter": 14,
+    "season": 1,
+    "title": "Arancars",
+    "existing_video_filename": "Bleach 14 Arancars.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 115,
+        "percent_used": "66.76"
+      },
+      {
+        "episode": 116,
+        "percent_used": "71.9"
+      },
+      {
+        "episode": 117,
+        "percent_used": "62.51"
+      },
+      {
+        "episode": 118,
+        "percent_used": "72.32"
+      },
+      {
+        "episode": 119,
+        "percent_used": "79.67"
+      }
+    ],
+    "plot": "Rukia helps Ichigo regain his resolve as the advance team explains the Arrancar threat. Grimmjow's fighters invade Karakura Town, forcing the Soul Reapers into separate battles. Ikkaku reveals his Bankai against Edrad and recalls his loyalty to Kenpachi.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_6"
+    ],
+    "nfo_sha256": "03a6bdecc255ed30be8741a9781b22b74dc28e41a1d1dd449de7e49e14fd8caa",
+    "packaged_nfo": "metadata/Season 01/Bleach 14 Arancars.nfo"
+  },
+  {
+    "chapter": 15,
+    "season": 1,
+    "title": "Mask",
+    "existing_video_filename": "Bleach 15 Mask.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 120,
+        "percent_used": "53.48"
+      },
+      {
+        "episode": 121,
+        "percent_used": "65.21"
+      },
+      {
+        "episode": 122,
+        "percent_used": "76.99"
+      },
+      {
+        "episode": 123,
+        "percent_used": "64.14"
+      },
+      {
+        "episode": 124,
+        "percent_used": "42.28"
+      },
+      {
+        "episode": 125,
+        "percent_used": "65.33"
+      }
+    ],
+    "plot": "The advance team releases its power restrictions, but Ichigo struggles against Grimmjow. Seeking control over his Hollow side, he turns to Shinji's Visored and fights within his inner world. Aizen's plan places Karakura Town itself in danger.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_6"
+    ],
+    "nfo_sha256": "436f25d597a4f15a4b42f3fec94433bea55c207402449b7cfcdcaa914e179541",
+    "packaged_nfo": "metadata/Season 01/Bleach 15 Mask.nfo"
+  },
+  {
+    "chapter": 16,
+    "season": 1,
+    "title": "Eleven Seconds",
+    "existing_video_filename": "Bleach 16 Eleven Seconds.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 126,
+        "percent_used": "71.78"
+      },
+      {
+        "episode": 127,
+        "percent_used": "65.07"
+      },
+      {
+        "episode": 138,
+        "percent_used": "77.37"
+      },
+      {
+        "episode": 139,
+        "percent_used": "59.61"
+      },
+      {
+        "episode": 140,
+        "percent_used": "70.05"
+      }
+    ],
+    "plot": "Ichigo practices sustaining his mask, Uryu works to restore his Quincy powers, and Orihime struggles with being excluded from battle. A renewed Arrancar attack tests Ichigo's brief transformation against Grimmjow, while Ulquiorra pressures Orihime to leave with him.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_6",
+      "https://en.wikipedia.org/wiki/Bleach_season_7"
+    ],
+    "nfo_sha256": "443b9cd6c25618f04ed83b34ad5155a704f7ff51b26241cfe4862e8096fb2416",
+    "packaged_nfo": "metadata/Season 01/Bleach 16 Eleven Seconds.nfo"
+  },
+  {
+    "chapter": 17,
+    "season": 1,
+    "title": "Hueco Mundo",
+    "existing_video_filename": "Bleach 17 Hueco Mundo.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 141,
+        "percent_used": "71.92"
+      },
+      {
+        "episode": 142,
+        "percent_used": "74.95"
+      },
+      {
+        "episode": 143,
+        "percent_used": "69.01"
+      },
+      {
+        "episode": 144,
+        "percent_used": "67.88"
+      },
+      {
+        "episode": 145,
+        "percent_used": "55.94"
+      }
+    ],
+    "plot": "Orihime says a private goodbye before departing for Hueco Mundo. Despite Soul Society's refusal to authorize a rescue, Ichigo, Chad and Uryu set out through Urahara's gateway, confronting the first defenders on their way toward Las Noches.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_7"
+    ],
+    "nfo_sha256": "7528c9748aeef25e389c38234897594b140cc781fb80161eb46c65a21a9949b8",
+    "packaged_nfo": "metadata/Season 01/Bleach 17 Hueco Mundo.nfo"
+  },
+  {
+    "chapter": 18,
+    "season": 1,
+    "title": "Privaron Espada",
+    "existing_video_filename": "Bleach 18 Privaron Espada.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 146,
+        "percent_used": "75.66"
+      },
+      {
+        "episode": 150,
+        "percent_used": "67.94"
+      },
+      {
+        "episode": 151,
+        "percent_used": "51.92"
+      },
+      {
+        "episode": 152,
+        "percent_used": "48.29"
+      },
+      {
+        "episode": 153,
+        "percent_used": "37.94"
+      },
+      {
+        "episode": 154,
+        "percent_used": "61.48"
+      }
+    ],
+    "plot": "Nel becomes an unlikely companion, and Rukia and Renji rejoin the rescuers. Inside Las Noches, the group splits up. Dordoni forces Ichigo to draw on his greater powers, while Rukia encounters an Espada wearing Kaien's face.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_7",
+      "https://en.wikipedia.org/wiki/Bleach_season_8"
+    ],
+    "nfo_sha256": "d640a091c1816a648e1f9d593d9126b12aa4728710ed84dfe99b6c8324c25253",
+    "packaged_nfo": "metadata/Season 01/Bleach 18 Privaron Espada.nfo"
+  },
+  {
+    "chapter": 19,
+    "season": 1,
+    "title": "Aaroniero",
+    "existing_video_filename": "Bleach 19 Aaroniero.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 155,
+        "percent_used": "56.8"
+      },
+      {
+        "episode": 156,
+        "percent_used": "53.33"
+      },
+      {
+        "episode": 157,
+        "percent_used": "68.09"
+      },
+      {
+        "episode": 158,
+        "percent_used": "51.28"
+      },
+      {
+        "episode": 159,
+        "percent_used": "58.81"
+      },
+      {
+        "episode": 160,
+        "percent_used": "29.7"
+      },
+      {
+        "episode": 161,
+        "percent_used": "50.5"
+      }
+    ],
+    "plot": "Rukia discovers Aaroniero's deception and fights to uphold Kaien's memory. Uryu and Chad confront their own opponents, while Renji falls into Szayelaporro's prepared battlefield. Ulquiorra provokes Ichigo by invoking the danger to his friends and Orihime's captivity.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_8"
+    ],
+    "nfo_sha256": "e85273e772ed849d20c2b76cdcfd491a4178f8186eafe974bd3cb7c6170d5fa2",
+    "packaged_nfo": "metadata/Season 01/Bleach 19 Aaroniero.nfo"
+  },
+  {
+    "chapter": 20,
+    "season": 1,
+    "title": "Grimmjow",
+    "existing_video_filename": "Bleach 20 Grimmjow.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 162,
+        "percent_used": "69.24"
+      },
+      {
+        "episode": 163,
+        "percent_used": "61.09"
+      },
+      {
+        "episode": 164,
+        "percent_used": "53.63"
+      },
+      {
+        "episode": 165,
+        "percent_used": "50.8"
+      },
+      {
+        "episode": 166,
+        "percent_used": "55.48"
+      },
+      {
+        "episode": 167,
+        "percent_used": "44.55"
+      }
+    ],
+    "plot": "Ulquiorra overwhelms Ichigo, but Grimmjow arranges for Orihime to heal him so they can settle their rivalry. Uryu supports Renji against Szayelaporro, while Ichigo's masked power clashes with Grimmjow's released form in a battle to protect Orihime.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_8"
+    ],
+    "nfo_sha256": "7b334f0e6d5934ba43c554eaf157e721098f54de71e040812437941b441a7cfa",
+    "packaged_nfo": "metadata/Season 01/Bleach 20 Grimmjow.nfo"
+  },
+  {
+    "chapter": 21,
+    "season": 1,
+    "title": "Nelliel",
+    "existing_video_filename": "Bleach 21 Nelliel.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 190,
+        "percent_used": "25.55"
+      },
+      {
+        "episode": 191,
+        "percent_used": "35.46"
+      },
+      {
+        "episode": 192,
+        "percent_used": "53.15"
+      },
+      {
+        "episode": 193,
+        "percent_used": "54.11"
+      },
+      {
+        "episode": 194,
+        "percent_used": "55.19"
+      },
+      {
+        "episode": 195,
+        "percent_used": "58.41"
+      },
+      {
+        "episode": 196,
+        "percent_used": "65.65"
+      }
+    ],
+    "plot": "Nnoitra attacks the exhausted Ichigo, prompting Nel to reveal her former identity as Nelliel. Her history with Nnoitra resurfaces as Renji and Uryu suffer Szayelaporro's experiments. When Nelliel's transformation fails, Kenpachi and other captains arrive to intervene.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_10"
+    ],
+    "nfo_sha256": "2f716e2ec7ccbfd04407240a0b3dfb79e8df211d3d80885b62a1dbfa5c94a265",
+    "packaged_nfo": "metadata/Season 01/Bleach 21 Nelliel.nfo"
+  },
+  {
+    "chapter": 22,
+    "season": 1,
+    "title": "Backup",
+    "existing_video_filename": "Bleach 22 Backup.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 197,
+        "percent_used": "59.69"
+      },
+      {
+        "episode": 198,
+        "percent_used": "59"
+      },
+      {
+        "episode": 199,
+        "percent_used": "54.72"
+      },
+      {
+        "episode": 200,
+        "percent_used": "50.11"
+      },
+      {
+        "episode": 201,
+        "percent_used": "65.6"
+      },
+      {
+        "episode": 202,
+        "percent_used": "37.52"
+      },
+      {
+        "episode": 203,
+        "percent_used": "47.22"
+      }
+    ],
+    "plot": "The arriving captains turn the Hueco Mundo battles around: Byakuya confronts Zommari, Mayuri counters Szayelaporro, and Kenpachi faces Nnoitra's released form. Aizen then reveals his move against Karakura Town, leaving Ichigo's rescue mission caught in a larger trap.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_10"
+    ],
+    "nfo_sha256": "1e1636fe98f14373cc9973a30fae881e0be53419bb5793ef28baebb894ca13a5",
+    "packaged_nfo": "metadata/Season 01/Bleach 22 Backup.nfo"
+  },
+  {
+    "chapter": 23,
+    "season": 1,
+    "title": "Hollowfication",
+    "existing_video_filename": "Bleach 23 Hollowfication.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 206,
+        "percent_used": "57.72"
+      },
+      {
+        "episode": 207,
+        "percent_used": "58.38"
+      },
+      {
+        "episode": 208,
+        "percent_used": "18.37"
+      },
+      {
+        "episode": 209,
+        "percent_used": "29.75"
+      },
+      {
+        "episode": 210,
+        "percent_used": "64.15"
+      },
+      {
+        "episode": 211,
+        "percent_used": "52.46"
+      },
+      {
+        "episode": 212,
+        "percent_used": "65.77"
+      }
+    ],
+    "plot": "A journey into Soul Society's past follows Urahara's appointment as captain and the disappearances investigated by Shinji's generation. Aizen's Hollowfication experiments destroy their lives; Urahara's attempt to help instead leads to false accusations, exile and the origins of the Visored.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_11"
+    ],
+    "nfo_sha256": "4198107a88ac60fdd187a60fa385f469b0a69bd1eca697cf66c96fb2fb03d083",
+    "packaged_nfo": "metadata/Season 01/Bleach 23 Hollowfication.nfo"
+  },
+  {
+    "chapter": 24,
+    "season": 1,
+    "title": "Invasion",
+    "existing_video_filename": "Bleach 24 Invasion.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 215,
+        "percent_used": "14.67"
+      },
+      {
+        "episode": 216,
+        "percent_used": "33.19"
+      },
+      {
+        "episode": 217,
+        "percent_used": "32.65"
+      },
+      {
+        "episode": 218,
+        "percent_used": "53.48"
+      },
+      {
+        "episode": 219,
+        "percent_used": "49.75"
+      },
+      {
+        "episode": 220,
+        "percent_used": "60.88"
+      },
+      {
+        "episode": 221,
+        "percent_used": "27.76"
+      }
+    ],
+    "plot": "Aizen's forces meet the Soul Reapers in a substitute Karakura Town. Yumichika, Kira and Hisagi defend the pillars maintaining the substitution, while Ikkaku's struggle forces Komamura to intervene. The battle expands as the remaining defenders engage the Arrancar.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Episodes 215 and 216 are split with chapter 26. Assigning the town battle to 24 and Las Noches to 26 is a narrative inference from the guide and titles, not a timestamp-verified cut list.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_12"
+    ],
+    "nfo_sha256": "2e2c8c8db2251586708ff9b3c51d0cbfafd3e0ac4f198973519b5dfe3e0bb190",
+    "packaged_nfo": "metadata/Season 01/Bleach 24 Invasion.nfo"
+  },
+  {
+    "chapter": 25,
+    "season": 1,
+    "title": "Demon",
+    "existing_video_filename": "Bleach 25 Demon.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 222,
+        "percent_used": "45.36"
+      },
+      {
+        "episode": 223,
+        "percent_used": "62.33"
+      },
+      {
+        "episode": 224,
+        "percent_used": "56.77"
+      },
+      {
+        "episode": 225,
+        "percent_used": "41.65"
+      },
+      {
+        "episode": 226,
+        "percent_used": "38.98"
+      }
+    ],
+    "plot": "Soi Fon and Omaeda fight Baraggan's subordinates while Rangiku and Hinamori face Harribel's trio. The summoned creature Ayon devastates the lieutenants, bringing Yamamoto into action as the captains confront the leading Espada.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Episode 226 also contains Las Noches material. The guide gives no scene-level allocation; the summary focuses on the principal Karakura battle.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_12"
+    ],
+    "nfo_sha256": "bfe75aeaf2852f9ac4d64051ae5f3adb781ebb1261231d4a8b6bc97ba14ca355",
+    "packaged_nfo": "metadata/Season 01/Bleach 25 Demon.nfo"
+  },
+  {
+    "chapter": 26,
+    "season": 1,
+    "title": "Ulquiorra",
+    "existing_video_filename": "Bleach 26 Ulquiorra.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 215,
+        "percent_used": "18.1"
+      },
+      {
+        "episode": 216,
+        "percent_used": "5.87"
+      },
+      {
+        "episode": 267,
+        "percent_used": "9.6"
+      },
+      {
+        "episode": 268,
+        "percent_used": "75.58"
+      },
+      {
+        "episode": 269,
+        "percent_used": "54.06"
+      },
+      {
+        "episode": 270,
+        "percent_used": "68.07"
+      },
+      {
+        "episode": 271,
+        "percent_used": "66.14"
+      },
+      {
+        "episode": 272,
+        "percent_used": "45.61"
+      }
+    ],
+    "plot": "Ichigo confronts Ulquiorra at Las Noches while Uryu helps protect Orihime. Ulquiorra's escalating releases overwhelm Ichigo, whose desperate response unleashes a monstrous Hollow transformation and turns the battle against his opponent.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Episodes 215 and 216 are shared with 24; episode 272 is shared with 28. The precise final retained scene of the Ulquiorra fight is unverified. The summary does not place Ulquiorra's final farewell at an exact chapter boundary.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_12",
+      "https://en.wikipedia.org/wiki/Bleach_season_14"
+    ],
+    "nfo_sha256": "d649f73770b05e8f806cf92d6021551441f766ee135baa9e7b6159539a5f66ef",
+    "packaged_nfo": "metadata/Season 01/Bleach 26 Ulquiorra.nfo"
+  },
+  {
+    "chapter": 27,
+    "season": 1,
+    "title": "Death",
+    "existing_video_filename": "Bleach 27 Death.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 273,
+        "percent_used": "13.19"
+      },
+      {
+        "episode": 274,
+        "percent_used": "53.31"
+      },
+      {
+        "episode": 275,
+        "percent_used": "68.16"
+      },
+      {
+        "episode": 276,
+        "percent_used": "47.17"
+      },
+      {
+        "episode": 277,
+        "percent_used": "53.97"
+      },
+      {
+        "episode": 278,
+        "percent_used": "48.27"
+      },
+      {
+        "episode": 279,
+        "percent_used": "51.28"
+      },
+      {
+        "episode": 280,
+        "percent_used": "53.56"
+      }
+    ],
+    "plot": "The captains struggle against Harribel, Baraggan and Starrk. Wonderweiss disrupts their defenses, and the Visored enter the battle. Hachigen joins Soi Fon in confronting Baraggan's lethal power of decay.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Episode 273 is shared with 28. Its small retained portion cannot be allocated to a specific scene from percentages alone. The Baraggan battle conclusion is in source episode 281, assigned to chapter 28.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_14"
+    ],
+    "nfo_sha256": "c501e7d006d2bb42cbd83db02f9492d4306978e71809980bc179e77272801660",
+    "packaged_nfo": "metadata/Season 01/Bleach 27 Death.nfo"
+  },
+  {
+    "chapter": 28,
+    "season": 1,
+    "title": "Arrival",
+    "existing_video_filename": "Bleach 28 Arrival.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 281,
+        "percent_used": "36.48"
+      },
+      {
+        "episode": 282,
+        "percent_used": "59.26"
+      },
+      {
+        "episode": 283,
+        "percent_used": "52.26"
+      },
+      {
+        "episode": 284,
+        "percent_used": "7.05"
+      },
+      {
+        "episode": 285,
+        "percent_used": "39.93"
+      },
+      {
+        "episode": 272,
+        "percent_used": "16.64"
+      },
+      {
+        "episode": 273,
+        "percent_used": "12.34"
+      },
+      {
+        "episode": 286,
+        "percent_used": "66.03"
+      },
+      {
+        "episode": 288,
+        "percent_used": "67.56"
+      }
+    ],
+    "plot": "Baraggan and Starrk's battles reach their conclusions as Aizen takes control. Back in Hueco Mundo, Yammy threatens the rescuers; Kenpachi and Byakuya intervene, allowing Ichigo to depart with Unohana to confront Aizen.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Preserves guide order: 281,282,283,284,285,272,273,286,288. The return to Yammy material from 272-273 is inferred; exact retained portions are unverified. Only 7.05% of 284 is listed, so no claim is made that Harribel's full backstory survives.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_14"
+    ],
+    "nfo_sha256": "f04e8757525d01c1b9562c0f9dfaf9ab2306b01e3bb7261872e23bee718515e2",
+    "packaged_nfo": "metadata/Season 01/Bleach 28 Arrival.nfo"
+  },
+  {
+    "chapter": 29,
+    "season": 1,
+    "title": "Wonderweiss",
+    "existing_video_filename": "Bleach 29 Wonderweiss.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 289,
+        "percent_used": "49.79"
+      },
+      {
+        "episode": 290,
+        "percent_used": "65.16"
+      },
+      {
+        "episode": 291,
+        "percent_used": "68.79"
+      },
+      {
+        "episode": 292,
+        "percent_used": "43.7"
+      },
+      {
+        "episode": 293,
+        "percent_used": "53.81"
+      },
+      {
+        "episode": 294,
+        "percent_used": "62.37"
+      }
+    ],
+    "plot": "Komamura and Hisagi confront Tosen, and Ichigo reaches the battlefield. Aizen turns the captains' coordinated attack against them through illusion. Yamamoto faces Wonderweiss, whose abilities were designed to neutralize his flames.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_14"
+    ],
+    "nfo_sha256": "4680b5bd5e59a11285a0187b845128438078245dfc554e83dca58a0e2dd7e9b1",
+    "packaged_nfo": "metadata/Season 01/Bleach 29 Wonderweiss.nfo"
+  },
+  {
+    "chapter": 30,
+    "season": 1,
+    "title": "Own Will",
+    "existing_video_filename": "Bleach 30 Own Will.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 295,
+        "percent_used": "14.36"
+      },
+      {
+        "episode": 296,
+        "percent_used": "37.19"
+      },
+      {
+        "episode": 297,
+        "percent_used": "60.42"
+      },
+      {
+        "episode": 300,
+        "percent_used": "61.14"
+      },
+      {
+        "episode": 301,
+        "percent_used": "67.42"
+      },
+      {
+        "episode": 302,
+        "percent_used": "69.44"
+      }
+    ],
+    "plot": "Aizen reveals his influence over Ichigo's battles. Isshin, Urahara and Yoruichi challenge his evolving power while Ichigo fights Gin. Father and son enter the Dangai, where Ichigo begins seeking the Final Getsuga Tensho.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Only 14.36% of source episode 295 is retained. The summary avoids claiming that its extended recap is retained.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_14"
+    ],
+    "nfo_sha256": "b67f9b4f49be209f0daca157011c61e4c28e2a0dcc539dbac0ba255b090d7df1",
+    "packaged_nfo": "metadata/Season 01/Bleach 30 Own Will.nfo"
+  },
+  {
+    "chapter": 31,
+    "season": 1,
+    "title": "Two Thousand Hours",
+    "existing_video_filename": "Bleach 31 Two Thousand Hours.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 306,
+        "percent_used": "50.09"
+      },
+      {
+        "episode": 307,
+        "percent_used": "55.72"
+      },
+      {
+        "episode": 308,
+        "percent_used": "73.15"
+      },
+      {
+        "episode": 309,
+        "percent_used": "73.35"
+      },
+      {
+        "episode": 310,
+        "percent_used": "54.15"
+      },
+      {
+        "episode": 342,
+        "percent_used": "11.87"
+      }
+    ],
+    "plot": "Ichigo confronts Tensa Zangetsu as Gin turns against Aizen. Returning from training, Ichigo unleashes the Final Getsuga Tensho, enabling Aizen's sealing. Victory brings the loss of Ichigo's powers and separation from Rukia.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source episode 342 contributes 11.87%. Its farewell material is the likely bridge; no claim is made that the Reigai storyline is included. Exact cut requires video or timestamps.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_14",
+      "https://en.wikipedia.org/wiki/Bleach_season_15"
+    ],
+    "nfo_sha256": "01bbd839d204eccb4016bfabd8ae6bbaa408ff5cf962b346c940e0823e369a25",
+    "packaged_nfo": "metadata/Season 01/Bleach 31 Two Thousand Hours.nfo"
+  },
+  {
+    "chapter": 32,
+    "season": 1,
+    "title": "Powerless",
+    "existing_video_filename": "Bleach 32 Powerless.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 343,
+        "percent_used": "47.15"
+      },
+      {
+        "episode": 344,
+        "percent_used": "73.53"
+      },
+      {
+        "episode": 345,
+        "percent_used": "56.17"
+      },
+      {
+        "episode": 346,
+        "percent_used": "60.07"
+      },
+      {
+        "episode": 347,
+        "percent_used": "49.46"
+      },
+      {
+        "episode": 348,
+        "percent_used": "41.89"
+      },
+      {
+        "episode": 349,
+        "percent_used": "54.68"
+      }
+    ],
+    "plot": "Powerless after the battle with Aizen, Ichigo is drawn to Ginjo's Xcution when Uryu is attacked. The Fullbringers offer a way to regain his abilities, and Ichigo begins training through his Substitute Soul Reaper badge as danger closes in on Orihime.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_16"
+    ],
+    "nfo_sha256": "2f497bca28ad99250de047bcc696fd67bba4d3729622322bd4247302fc0e482b",
+    "packaged_nfo": "metadata/Season 01/Bleach 32 Powerless.nfo"
+  },
+  {
+    "chapter": 33,
+    "season": 1,
+    "title": "Tsukishima",
+    "existing_video_filename": "Bleach 33 Tsukishima.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 351,
+        "percent_used": "24.66"
+      },
+      {
+        "episode": 350,
+        "percent_used": "55.07"
+      },
+      {
+        "episode": 352,
+        "percent_used": "65.7"
+      },
+      {
+        "episode": 353,
+        "percent_used": "52.1"
+      },
+      {
+        "episode": 354,
+        "percent_used": "68.62"
+      }
+    ],
+    "plot": "Ichigo develops his Fullbring through increasingly demanding training, including a battle with Jackie. Tsukishima's attack on Xcution brings their enemy into the open, while the unsettling effects of his encounter with Orihime complicate the search for answers.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Preserves guide order 351,350,352,353,354. This is not a transcription error and must not be automatically sorted.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://en.wikipedia.org/wiki/Bleach_season_16"
+    ],
+    "nfo_sha256": "d29a5ab02ec22e4e76c1aa5902129cdbf218b01dad2735a0c9985fce626acadc",
+    "packaged_nfo": "metadata/Season 01/Bleach 33 Tsukishima.nfo"
+  },
+  {
+    "chapter": 34,
+    "season": 1,
+    "title": "Memories",
+    "existing_video_filename": "Bleach 34 Memories.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 356,
+        "percent_used": "73.45"
+      },
+      {
+        "episode": 357,
+        "percent_used": "53.88"
+      },
+      {
+        "episode": 358,
+        "percent_used": "71.29"
+      },
+      {
+        "episode": 359,
+        "percent_used": "60.59"
+      },
+      {
+        "episode": 360,
+        "percent_used": "50.36"
+      }
+    ],
+    "plot": "Ginjo drives Ichigo toward a completed Fullbring, but Tsukishima inserts himself into the pasts of Ichigo's family and friends. Isolated and opposed by people he trusts, Ichigo confronts Tsukishima before Uryu's arrival exposes Ginjo's betrayal.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_16"
+    ],
+    "nfo_sha256": "2e7681fa2437a72fbcc18cbd46b406076fbc234c0f7b66a025238e9a4590747c",
+    "packaged_nfo": "metadata/Season 01/Bleach 34 Memories.nfo"
+  },
+  {
+    "chapter": 35,
+    "season": 1,
+    "title": "Fullbringers",
+    "existing_video_filename": "Bleach 35 Fullbringers.mkv",
+    "source_episodes_in_guide_order": [
+      {
+        "episode": 361,
+        "percent_used": "62.39"
+      },
+      {
+        "episode": 362,
+        "percent_used": "68.5"
+      },
+      {
+        "episode": 363,
+        "percent_used": "65.91"
+      },
+      {
+        "episode": 364,
+        "percent_used": "56.84"
+      },
+      {
+        "episode": 365,
+        "percent_used": "53.79"
+      },
+      {
+        "episode": 366,
+        "percent_used": "85.3"
+      }
+    ],
+    "plot": "Rukia restores Ichigo's Soul Reaper powers, and his allies confront Xcution. Byakuya battles Tsukishima while Ichigo faces Ginjo and the truth about the Substitute badge. Their final duel settles Ichigo's allegiance and brings the Fullbring conflict to an end.",
+    "mapping_status": "Exact episode numbers, sequence and percentages transcribed from user-supplied creator guide; guide URL/version not supplied.",
+    "title_status": "Filename confirmed in conversation and live Unraid listing, 2026-10-29.",
+    "plot_status": "Source-episode-based synthesis; retained scenes not independently checked against edited video.",
+    "boundary_note": "Source-episode membership verified against supplied guide. Exact timestamps and retained scenes are not specified.",
+    "sources": [
+      "https://onepace.co/season/bleach-no-filler-edit-1/",
+      "https://subdl.com/s/info/8O0zxeGfaK/bleach",
+      "https://en.wikipedia.org/wiki/Bleach_season_16"
+    ],
+    "nfo_sha256": "a1bbaf1f3dc499d4b42f3ce9242a20f2a9eb8d46e359123a708cf39a8700a014",
+    "packaged_nfo": "metadata/Season 01/Bleach 35 Fullbringers.nfo"
+  }
+]
